@@ -8,3 +8,11 @@ spring:
 logging:
   level: debug
 
+logging:
+  level:
+    com.hehe.dao.mapper: debug
+
+mybatis:
+  type-aliases-package: com.hehe.*
+  mapper-locations: classpath:mappers/*.xml
+  #config-location: classpath:generatorConfig/mybatis-config.xml

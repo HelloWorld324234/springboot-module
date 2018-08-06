@@ -1,11 +1,7 @@
 package com.hehe.entity.user;
 
+import com.framework.generic.GenericGuidModel;
 import lombok.Data;
-
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
 
 /**
  * @Auther: yule
@@ -13,18 +9,10 @@ import javax.persistence.Table;
  * @Description:
  */
 @Data
-@Entity
-@Table(name = "T_USER")
-public class User {
+public class User extends GenericGuidModel {
 
-    @Id
-    @Column(name = "USERID")
-    private String userId;
+    private String name;
 
-    @Column(name = "USERNAME")
-    private String username;
-
-    @Column(name = "PASSWORD")
-    private String password;
+    private String address;
 
 }

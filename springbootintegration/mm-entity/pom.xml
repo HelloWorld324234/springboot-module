@@ -19,6 +19,11 @@
 
 
     <dependencies>
+        <dependency>
+            <groupId>com.hehe</groupId>
+            <artifactId>mm-framework</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
         <!-- Entity模块相关依赖 -->
         <dependency>

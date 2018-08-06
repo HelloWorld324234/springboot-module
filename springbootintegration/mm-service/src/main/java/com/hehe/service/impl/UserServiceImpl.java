@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
- * @Auther: yule
+ * @Author: yule
  * @Date: 2018/8/6 0006 14:21
  * @Description:
  */
@@ -22,6 +22,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public List<User> listUser() {
-        return userDao.findAll();
+        return userDao.selectAll();
     }
+
 }

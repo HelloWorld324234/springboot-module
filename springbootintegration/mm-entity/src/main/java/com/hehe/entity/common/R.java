@@ -14,9 +14,12 @@ public class R<T> implements Serializable {
     private static final int FAIL = 1;
     private static final int UNAUTHORIZED = 2;
 
-    private T data; //服务端数据
-    private int status = OK; //状态码
-    private String msg = ""; //描述信息
+    //服务端数据
+    private T data;
+    //状态码
+    private int status = OK;
+    //描述信息
+    private String msg = "";
 
     //APIS
     public static R isOk() {

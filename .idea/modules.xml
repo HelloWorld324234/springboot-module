@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootintegration/mm-entity/mm-entity.iml" filepath="$PROJECT_DIR$/springbootintegration/mm-entity/mm-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootintegration/mm-framework/mm-framework.iml" filepath="$PROJECT_DIR$/springbootintegration/mm-framework/mm-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootintegration/mm-repo/mm-repo.iml" filepath="$PROJECT_DIR$/springbootintegration/mm-repo/mm-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootintegration/mm-service/mm-service.iml" filepath="$PROJECT_DIR$/springbootintegration/mm-service/mm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootintegration/mm-web/mm-web.iml" filepath="$PROJECT_DIR$/springbootintegration/mm-web/mm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootintegration/springboot-integration.iml" filepath="$PROJECT_DIR$/springbootintegration/springboot-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-module.iml" filepath="$PROJECT_DIR$/.idea/springboot-module.iml" />
+    </modules>
+  </component>
+</project>

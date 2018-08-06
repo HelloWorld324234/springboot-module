@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springbootintegration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootintegration/mm-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootintegration/mm-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootintegration/mm-repo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootintegration/mm-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootintegration/mm-web" charset="UTF-8" />
+  </component>
+</project>
